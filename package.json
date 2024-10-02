@@ -1,0 +1,20 @@
+{
+  "name": "git_hub_practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexchris99/git_hub_practice.git"
+  },
+  "author": "Christian Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexchris99/git_hub_practice/issues"
+  },
+  "homepage": "https://github.com/alexchris99/git_hub_practice#readme",
+  "type": "module"
+}
